@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I'm Przemek
+Mainly focused on designing composite elements and structures, but also trying to make my work more efficient via code.
 
-<!--
-**furmanp/furmanp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on VBA Library for 3D CAD and FEM Analysis software
+- 🌱 I’m currently learning Python to get more out of the code
 
-Here are some ideas to get you started:
+--- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌌 Get in touch 
+
+- Linkedin: [linkedin.com/in/furmanp](linkedin.com/in/furmanp/) 
+- Mail: [pfu@pontis-engineering.com](pfu@pontis-engineering.com)
+- Website: [furmanp.com](https://www.furmanp.com)
+  
+--- 
