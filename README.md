@@ -6,10 +6,16 @@ Mainly focused on designing composite elements and structures, but also trying t
 
 --- 
 
-## 🌌 Get in touch 
+## 🌌 get in touch 
 
 - Linkedin: [linkedin.com/in/furmanp](linkedin.com/in/furmanp/) 
 - Mail: [pfu@pontis-engineering.com](pfu@pontis-engineering.com)
 - Website: [furmanp.com](https://www.furmanp.com)
   
 --- 
+
+## 📕 latest website entries 
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
