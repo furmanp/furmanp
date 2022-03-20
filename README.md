@@ -17,9 +17,9 @@ Mainly focused on designing composite elements and structures, but also trying t
 ## 📕 latest website entries 
 
 <!-- BLOG-POST-LIST:START -->
+- [development of prototype element using vacuum bag only technology.](https://furmanp.com//vbo-technology/)
 - [how to document your visual basic project.](https://furmanp.com//how-to-document-vba/)
 - [is visual basic a dead programming language?](https://furmanp.com//is-visual-basic-dead/)
 - [version control software.](https://furmanp.com//version-control-software/)
 - [why you should code, regardless the background.](https://furmanp.com//why-you-should-code/)
-- [why have a website if social media covers it all.](https://furmanp.com//why-have-a-website/)
 <!-- BLOG-POST-LIST:END -->
