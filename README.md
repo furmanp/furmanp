@@ -9,7 +9,7 @@ Mainly focused on designing composite elements and structures, but also trying t
 ## 🌌 get in touch 
 
 - Linkedin: [linkedin.com/in/furmanp](linkedin.com/in/furmanp/) 
-- Mail: [pfu@pontis-engineering.com](pfu@pontis-engineering.com)
+- Mail: [furmanp@proton.me](furmanp@proton.me)
 - Website: [furmanp.com](https://www.furmanp.com)
   
 --- 
