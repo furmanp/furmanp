@@ -1,8 +1,9 @@
-### Hi there 👋 I'm Przemek
-Mainly focused on designing composite elements and structures, but also trying to make my work more efficient via code.
+### Hi there 👋 I'm Przemek.
+Software engineer with mechanical/mechatronics background implementing software solutions in Offshore Wind/Oil/Gas industry to improve the work of mechanical/marine engineers.
 
-- 🔭 I’m currently working on VBA Library for 3D CAD and FEM Analysis software
-- 🌱 I’m currently learning Python to get more out of the code
+- 🔭 I’m currently working on Marine Logistics Toolbox, to automate marine calculation for offshore operations.
+-  🛳 I'm building an application using [Autodesk Platform Services](https://aps.autodesk.com/) co simplify Vessel's deck arrangement.
+- 🌱 I’m currently learning Typescript, GraphQL for backend development.
 
 --- 
 
