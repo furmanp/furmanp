@@ -18,9 +18,9 @@ Software engineer with mechanical/mechatronics background implementing software 
 ## 📕 latest website entries 
 
 <!-- BLOG-POST-LIST:START -->
+- [Jupyter Notebooks vs Excel.](https://furmanp.com//jupyter-notebooks/)
 - [Sustainability of composite wind turbines.](https://furmanp.com//recyclability-of-turbine-blades/)
 - [development of prototype element using vacuum bag only technology.](https://furmanp.com//vbo-technology/)
 - [how to document your visual basic project.](https://furmanp.com//how-to-document-vba/)
 - [is visual basic a dead programming language?](https://furmanp.com//is-visual-basic-dead/)
-- [version control software.](https://furmanp.com//version-control-software/)
 <!-- BLOG-POST-LIST:END -->
