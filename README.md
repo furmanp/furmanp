@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Przemek.
 Software engineer with mechanical/mechatronics background implementing software solutions in Offshore Wind/Oil/Gas industry to improve the work of mechanical/marine engineers.
 
-- 🔭 I’m currently working on Marine Operations Toolbox, to automate marine calculation for offshore operations -> [MOT DEMO](https://twd.nl/marine-operations-toolbox/).
--  🛳 I'm building an application using [Autodesk Platform Services](https://aps.autodesk.com/) to simplify Vessel's deck arrangement.
-- 🌱 I’m currently learning Typescript, GraphQL for backend development.
+- 🔭 My main project I'm currently working on: Marine Operations Toolbox, tool to automate marine calculation for offshore operations -> [MOT DEMO](https://twd.nl/marine-operations-toolbox/).
+- 🛳 I'm building an application using [Autodesk Platform Services](https://aps.autodesk.com/) to simplify Vessel's deck arrangement.
+- 🌱 My current stack is TypeScript, Node.JS/Express.
 
 --- 
 
