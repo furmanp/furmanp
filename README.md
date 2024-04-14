@@ -10,7 +10,7 @@ Software engineer with mechanical/mechatronics background implementing software 
 ## 🌌 get in touch 
 
 - Linkedin: [linkedin.com/in/furmanp](linkedin.com/in/furmanp/) 
-- Mail: [furmanp@proton.me](furmanp@proton.me)
+- Mail: [przemek@furmanp.com](przemek@furmanp.com)
 - Website: [furmanp.com](https://www.furmanp.com)
   
 --- 
