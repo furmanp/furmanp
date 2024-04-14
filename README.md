@@ -3,7 +3,7 @@ Software engineer with mechanical/mechatronics background implementing software 
 
 - 🔭 My main project I'm currently working on: Marine Operations Toolbox, tool to automate marine calculation for offshore operations -> [MOT DEMO](https://twd.nl/marine-operations-toolbox/).
 - 🛳 I'm building an application using [Autodesk Platform Services](https://aps.autodesk.com/) to simplify Vessel's deck arrangement.
-- 🌱 My current stack is TypeScript, Node.JS/Express.
+- 🌱 My current stack is JavaScript/TypeScript, Node.JS/Express, Python.
 
 --- 
 
