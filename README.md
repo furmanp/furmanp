@@ -27,5 +27,6 @@ Software engineer with mechanical/mechatronics background implementing software 
 - [is visual basic a dead programming language?](https://furmanp.com//is-visual-basic-dead/)
 <!-- BLOG-POST-LIST:END -->
 
+--- 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=furmanp&show_icons=true&locale=en&layout=compact" alt="furmanp" /></p>
