@@ -1,3 +1,5 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=furmanp&label=Profile%20views&color=0e75b6&style=flat" alt="furmanp" /> </p>
+
 ### Hi there 👋 I'm Przemek.
 Software engineer with mechanical/mechatronics background implementing software solutions in Offshore Wind/Oil/Gas industry to improve the work of mechanical/marine engineers.
 
@@ -24,3 +26,6 @@ Software engineer with mechanical/mechatronics background implementing software 
 - [how to document your visual basic project.](https://furmanp.com//how-to-document-vba/)
 - [is visual basic a dead programming language?](https://furmanp.com//is-visual-basic-dead/)
 <!-- BLOG-POST-LIST:END -->
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=furmanp&show_icons=true&locale=en&layout=compact" alt="furmanp" /></p>
