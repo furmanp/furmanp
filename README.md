@@ -20,8 +20,8 @@ Software engineer with mechanical/mechatronics background implementing software 
 ## 📕 latest website entries 
 
 <!-- BLOG-POST-LIST:START -->
-- [Jupyter Notebooks vs Excel VBE.](https://furmanp.com//jupyter-notebooks/)
 - [Marine Operations Toolbox.](https://furmanp.com//marine-operations-toolbox/)
+- [Jupyter Notebooks vs Excel VBE.](https://furmanp.com//jupyter-notebooks/)
 - [Sustainability of composite wind turbines.](https://furmanp.com//recyclability-of-turbine-blades/)
 - [development of prototype element using vacuum bag only technology.](https://furmanp.com//vbo-technology/)
 - [how to document your visual basic project.](https://furmanp.com//how-to-document-vba/)
