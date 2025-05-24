@@ -1,22 +1,33 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=furmanp&label=Profile%20views&color=0e75b6&style=flat" alt="furmanp" /> </p>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=furmanp&label=Profile%20views&color=0e75b6&style=flat" alt="furmanp" />
+</p>
 
-### Hi there 👋 I'm Przemek.
-Software engineer with mechanical/mechatronics background implementing software solutions in Offshore Wind/Oil/Gas industry to improve the work of mechanical/marine engineers.
+# 👋 Hi there, I'm Przemek
 
-- 🔭 I'm currently working as a Full stack developer integrating AI solutions to customer portals.
-- 🌱 My current stack is JavaScript/TypeScript, Node.JS/Express, Python.
+I'm a **software engineer** with a **mechanical/mechatronics background**, building digital solutions that support the work of mechanical and marine engineers—especially in the **Offshore Wind, Oil & Gas** industries.
 
---- 
+Currently, I'm focused on developing full-stack platforms that **integrate AI solutions into customer-facing portals**.
 
-## 🌌 get in touch 
+---
 
-- Linkedin: [linkedin.com/in/furmanp](linkedin.com/in/furmanp/) 
-- Mail: [przemek@furmanp.com](przemek@furmanp.com)
-- Website: [furmanp.com](https://www.furmanp.com)
-  
---- 
+## 🧰 Tech Stack
 
-## 📕 latest website entries 
+- 💻 TypeScript / 🐍 Python 
+- 🔧 Node.js / Express / Django / FastAPI
+- 🖥️ React / Redux 
+- ☁️ Docker / CI/CD 
+
+---
+
+## 📬 Get in Touch
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/furmanp/)
+- 🌐 [Website](https://www.furmanp.com)
+- 📧 [przemek@furmanp.com](mailto:przemek@furmanp.com)
+
+---
+
+## 📕 Latest Blog Entries
 
 <!-- BLOG-POST-LIST:START -->
 - [GitLab to Github: Rebuild Your Activity Chart Effortlessly](https://www.furmanp.com/blog/gitlab-to-github-rebuild-activity-chart)
@@ -26,6 +37,13 @@ Software engineer with mechanical/mechatronics background implementing software 
 - [Sustainability of composite wind turbines](https://www.furmanp.com/blog/blade-sustainability)
 <!-- BLOG-POST-LIST:END -->
 
---- 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=furmanp&show_icons=true&locale=en&layout=compact" alt="furmanp" /></p>
+## 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=furmanp&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+</p>
+<br clear="both"/>
+
+---
