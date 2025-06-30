@@ -3,8 +3,8 @@ name: Blog Posts
 on:
   workflow_dispatch:
   schedule:
-    # Runs 6 hours
-    - cron: '0 */6 * * *'
+    # Runs at midnight
+    - cron: '0 0 * * *'
 
 jobs:
   update-readme-with-blog:
