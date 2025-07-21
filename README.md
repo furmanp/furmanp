@@ -30,7 +30,7 @@ Currently, I'm focused on developing full-stack platforms that **integrate AI so
 ## 📕 Latest Blog Entries
 
 <!-- BLOG-POST-LIST:START -->
-- [GitLab to Github: Rebuild Your Activity Chart Effortlessly](https://www.furmanp.com/articles/gitlab-to-github-rebuild-activity-chart)
+- [GitLab to Github: Rebuild Your Activity Chart Effortlessly](https://www.furmanp.com/articles/gitlab-activity-importer)
 - [Public Service Announcement](https://www.furmanp.com/articles/public-service-announcement)
 - [Marine Operations Toolbox](https://www.furmanp.com/articles/marine-operations-toolbox)
 - [Jupyter Notebooks vs Excel VBE](https://www.furmanp.com/articles/jupyter-vs-excel-vbe.)
