@@ -36,14 +36,3 @@ Currently, I'm focused on developing full-stack platforms that **integrate AI so
 - [Esource.gg](https://www.furmanp.com/articles/esource-gg)
 - [Jupyter Notebooks vs Excel VBE](https://www.furmanp.com/articles/jupyter-vs-excel-vbe)
 <!-- BLOG-POST-LIST:END -->
-
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=furmanp&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
-</p>
-<br clear="both"/>
-
----
