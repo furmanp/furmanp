@@ -31,7 +31,7 @@ Currently, I'm focused on developing full-stack platforms that **integrate AI so
 
 <!-- BLOG-POST-LIST:START -->
 - [My Internet Security Setup](https://www.furmanp.com/articles/my-internet-security-setup)
-- [Github Activity Importer](https://www.furmanp.com/articles/gitlab-activity-importer)
+- [GitHub Activity Importer](https://www.furmanp.com/articles/gitlab-activity-importer)
 - [Emeth](https://www.furmanp.com/articles/emeth-portfolio-tracker)
 - [Esource.gg](https://www.furmanp.com/articles/esource-gg)
 - [Jupyter Notebooks vs Excel VBE](https://www.furmanp.com/articles/jupyter-vs-excel-vbe)
